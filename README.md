@@ -15,7 +15,9 @@ The first two responses are labeled as “Y = 1,” and the third is labeled as 
 **Analysis**
 
 
-The code used for the analysis can be found [here](jupyter_note/prompt.ipynb)
+The code used for the analysis can be found [here](jupyter_note/coupons.ipynb)
+
 My findings have been mapped as a bar graph as seen below.
 ![img.png](images/img.png)
-The above plot makes it very apparent that people who travel with a passenger but no kids, and are not working in the Farming Fishing & Forestry industry and who already visits high cost retaurants more than once a month tend to accept the coupons more(77%). They are folloed closely by people who goes to high cost restaurants more than 3 times a month(64%).
+
+The above plot makes it very apparent that people who travel with a passenger but no kids, and are not working in the Farming Fishing & Forestry industry and who already visits expensive restaurants more than once a month tend to accept the coupons more(77%). They are followed closely by people who goes to expensive restaurants more than 3 times a month(64%).
