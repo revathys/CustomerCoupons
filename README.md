@@ -10,10 +10,12 @@ This data is from the UCI Machine Learning Repository and was collected via a su
 “Right away”
 “Later, before the coupon expires”
 “No, I do not want the coupon”
-The first two responses are labeled as “Y = 1,” and the third is labeled as “Y = 0.” There are five different types of coupons: Less expensive restaurants (under $20), coffee houses, carryout and takeaway, bars, and more expensive restaurants ($20–$50).
+The first two responses are labeled as “Y = 1,” and the third is labeled as “Y = 0.” There are five different types of coupons: Less expensive restaurants (under 20), coffee houses, carryout and takeaway, bars, and more expensive restaurants (20–50).
 
 **Analysis**
 
 
-The code used for the analysis can be found here.
+The code used for the analysis can be found [here](https://github.com/revathys/CustomerCoupons/blob/main/prompt.ipynb).
+My findings have been mapped as a bar graph as seen below.
+![img.png](img.png)
 The above plot makes it very apparent that people who travel with a passenger but no kids, and are not working in the Farming Fishing & Forestry industry and who already visits high cost retaurants more than once a month tend to accept the coupons more(77%). They are folloed closely by people who goes to high cost restaurants more than 3 times a month(64%).
